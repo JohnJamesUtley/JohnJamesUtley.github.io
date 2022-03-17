@@ -20,7 +20,7 @@ This is a very rough and quick program I wrote for a Business Internship that I 
 ### Qast
 A local multiplayer game in which players can use their phones as game controllers to move on a shared desktop that serves as the main screen. The game features a top-down 2D arena where each player gets a frankly adorable wizard character to control. In Qast players draw out different symbols on their phones in order to cast assorted spells at each other. Their accuracy, speed, potency, or general effectiveness is dependent on how well the player draws out the symbols on their phone. It took a lot of network coding and working with various other systems to complete. I think that because I worked on UI, Sound, and Graphics in this project I'll be better equipped to integrate other's work in those areas in  future projects.
 
-[GitHub: Qast](https://www.twitch.tv/)
+[GitHub: Qast](https://github.com/JohnJamesUtley/Qast)
 
 
 ### Trailblazers
