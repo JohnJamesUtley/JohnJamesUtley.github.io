@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## John James Utley - CS Portfolio
 
-You can use the [editor on GitHub](https://github.com/JohnJamesUtley/johnjamesutley.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+The majority of my projects are pre-college projects and are not commented but I have recently added ReadMe files to them. I mostly make video games in the Unity Game Engine using C#.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Coursework
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JohnJamesUtley/johnjamesutley.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Nuggets Terminal Video Game
+This is a multiplayer video game that me and a small team built in a Software Design and Implementation course. It is built entirely in C and from the ground up. It runs in the terminal. This program involved a lot of network coding and was built in a SCRUM and Sprint style work enviroment.
+[Nuggets](https://github.com/cs50spring2021/nuggets-nunchuck-buccaneer)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Trailblazers](https://github.com/JohnJamesUtley/Trailblazers)
+[Panda Doc Receiver](https://github.com/JohnJamesUtley/Panda-Doc-Receiver)
+[Spaceships](https://github.com/JohnJamesUtley/Spaceships-3)
+[Nuggets](https://github.com/cs50spring2021/nuggets-nunchuck-buccaneer)
