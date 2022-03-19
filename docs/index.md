@@ -34,8 +34,10 @@ Trailblazers is a top-down RTS game. Although it was never fully prepared for pu
 ![](Photos/Trail1.PNG "Trailblazers")
 ![](Photos/Trail2.PNG "Trailblazers")
 
-
 ### Spaceships
 This is an unfinished project but it has a plethora of interesting systems that were super fun to program. In this project there is code for dynamic destruction and construction through the use of a marching squares algorithm. There is A* pathfinding that adjusts to a changing enviroment as entities are moving and some high speed physics simulation. It is more of a prototype than anything else. Still uncommented but cool I think.
+
+![](Photos/Ship1.PNG "Spaceships")
+![](Photos/Ship2.PNG "Spaceships")
 
 [GitHub: Spaceships](https://github.com/JohnJamesUtley/Spaceships-3)
