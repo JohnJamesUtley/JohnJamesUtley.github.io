@@ -18,10 +18,16 @@ This is a very rough and quick program I wrote for a Business Internship that I 
 ## Pre-College Video Games
 
 ### Qast
+
 A local multiplayer game in which players can use their phones as game controllers to move on a shared desktop that serves as the main screen. The game features a top-down 2D arena where each player gets a frankly adorable wizard character to control. In Qast players draw out different symbols on their phones in order to cast assorted spells at each other. Their accuracy, speed, potency, or general effectiveness is dependent on how well the player draws out the symbols on their phone. It took a lot of network coding and working with various other systems to complete. I think that because I worked on UI, Sound, and Graphics in this project I'll be better equipped to integrate other's work in those areas in  future projects.
 
 [GitHub: Qast](https://github.com/JohnJamesUtley/Qast)
 
+![Screenshot](../Photos/ClientOpen.PNG "Qast")
+
+![Screenshot](../Photos/Jungle1.PNG "Qast")
+
+![Screenshot](../Photos/MapDesert2.PNG "Qast")
 
 ### Trailblazers
 Trailblazers is a top-down RTS game. Although it was never fully prepared for publishing it is fairly polished. It is a two player local multiplayer game. The game involves moving large formations of troops around a battlefield in order to capture key positions. The combat was difficult to program because it is solely based around the shapes formed by lines of combatants. Not Commented but the structure is well organzied and fairly easy to navigate.
