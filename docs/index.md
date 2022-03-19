@@ -25,12 +25,15 @@ A local multiplayer game in which players can use their phones as game controlle
 
 ![](Photos/ClientOpen.PNG "Qast")
 ![](Photos/Jungle1.PNG "Qast")
-![](Photos/MapDesert2.PNG "Qast")
 
 ### Trailblazers
 Trailblazers is a top-down RTS game. Although it was never fully prepared for publishing it is fairly polished. It is a two player local multiplayer game. The game involves moving large formations of troops around a battlefield in order to capture key positions. The combat was difficult to program because it is solely based around the shapes formed by lines of combatants. Not Commented but the structure is well organzied and fairly easy to navigate.
 
 [GitHub: Trailblazers](https://github.com/JohnJamesUtley/Trailblazers)
+
+![](Photos/Trail1.PNG "Trailblazers")
+![](Photos/Trail2.PNG "Trailblazers")
+
 
 ### Spaceships
 This is an unfinished project but it has a plethora of interesting systems that were super fun to program. In this project there is code for dynamic destruction and construction through the use of a marching squares algorithm. There is A* pathfinding that adjusts to a changing enviroment as entities are moving and some high speed physics simulation. It is more of a prototype than anything else. Still uncommented but cool I think.
