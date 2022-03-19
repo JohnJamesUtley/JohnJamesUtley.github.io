@@ -1,4 +1,6 @@
-# John James Utley - CS Portfolio
+layout: page
+title: "John James Utley - CS Portfolio"
+permalink: /index.html
 
 The majority of my projects are pre-college projects and are not commented but I have recently added ReadMe files to all of them. If you want more information on any particular project navigate to their GitHub repository using the link. I mostly make video games in the Unity Game Engine using C# but some projects are made with C and other languages.
 
