@@ -24,9 +24,7 @@ A local multiplayer game in which players can use their phones as game controlle
 [GitHub: Qast](https://github.com/JohnJamesUtley/Qast)
 
 ![](Photos/ClientOpen.PNG "Qast")
-
 ![](Photos/Jungle1.PNG "Qast")
-
 ![](Photos/MapDesert2.PNG "Qast")
 
 ### Trailblazers
