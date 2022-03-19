@@ -27,15 +27,15 @@ Trailblazers is a top-down RTS game. Although it was never fully prepared for pu
 ## Spaceships
 This is an unfinished project but it has a plethora of interesting systems that were super fun to program. In this project there is code for dynamic destruction and construction through the use of a marching squares algorithm. There is A* pathfinding that adjusts to a changing enviroment as entities are moving and some high speed physics simulation. It is more of a prototype than anything else. Still uncommented but cool I think.
 
+[GitHub: Spaceships](https://github.com/JohnJamesUtley/Spaceships-3)
+
 ![](Photos/Ship1.PNG "Spaceships")
 ![](Photos/Ship2.PNG "Spaceships")
-
-[GitHub: Spaceships](https://github.com/JohnJamesUtley/Spaceships-3)
 
 ## Panda Doc Receiver
 This is a very rough and quick program I wrote for a Business Internship that I had from June 2021 to September 2021. It uses a website's API to export documents in bulk that have been filled out and signed by employees. The website is similar to DocuSign and is not originally designed for so many documents. It runs in terminal and exports to a CSV file. Not Commented.
 
+[GitHub: Panda Doc Receiver](https://github.com/JohnJamesUtley/Panda-Doc-Receiver)
+
 ![](Photos/PandaDoc.PNG "PandaDoc")
 ![](Photos/PandaDoc2.PNG "PandaDoc")
-
-[GitHub: Panda Doc Receiver](https://github.com/JohnJamesUtley/Panda-Doc-Receiver)
