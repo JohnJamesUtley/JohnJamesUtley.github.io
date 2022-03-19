@@ -23,11 +23,11 @@ A local multiplayer game in which players can use their phones as game controlle
 
 [GitHub: Qast](https://github.com/JohnJamesUtley/Qast)
 
-![Screenshot](/Photos/ClientOpen.PNG "Qast")
+![](Photos/ClientOpen.PNG "Qast")
 
-![Screenshot](/Photos/Jungle1.PNG "Qast")
+![](Photos/Jungle1.PNG "Qast")
 
-![Screenshot](/Photos/MapDesert2.PNG "Qast")
+![](Photos/MapDesert2.PNG "Qast")
 
 ### Trailblazers
 Trailblazers is a top-down RTS game. Although it was never fully prepared for publishing it is fairly polished. It is a two player local multiplayer game. The game involves moving large formations of troops around a battlefield in order to capture key positions. The combat was difficult to program because it is solely based around the shapes formed by lines of combatants. Not Commented but the structure is well organzied and fairly easy to navigate.
