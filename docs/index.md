@@ -19,8 +19,16 @@ A local multiplayer game in which players can use their phones as game controlle
 ![](Photos/ClientOpen.PNG "Qast")
 ![](Photos/Jungle1.PNG "Qast")
 
+## Envision Earth
+
+A website and iPhone app meant to help ranchers implement better ranching processes. This project was a Dali Lab implemented over a 10-week period. My team was given a non-functional website frontend and we made it functional through the creation of a backend. We also created the frontend for an iPhone app which we connected to the same backend as the website. On the website or the app users can record and later view important information about their herds. The users are given recommended targets for their herds over time to ensure the herds are in the correct condition when they are bred and calved. This project was done SCRUM style in 1-week sprints and required strong communication and github practices to stay coherent.
+
+![](Photos/Data.PNG "Envision Earth")
+![](Photos/AddData.PNG "Envision Earth")
+![](Photos/AppAddData.PNG "Envision Earth")
+
 ## Nuggets Terminal Video Game
-This is a multiplayer video game that me and a small team built in a Software Design and Implementation course. It is built entirely in C and from the ground up. It runs in the terminal. In the game players are placed on a unrevealed premade map. They can only see in their immediate vincinity according to their lines of sight. The goal is for the players to wander around and pick up small gold piles which are randomly placed throughout the map before other players. This program involved a lot of network coding and was built in a SCRUM and Sprint style work enviroment. This project has proper commenting.
+This is a multiplayer video game that me and a small team built in a Software Design and Implementation course. It is built entirely in C and from the ground up. It runs in the terminal. In the game players are placed on a unrevealed premade map. They can only see in their immediate vincinity according to their lines of sight. The goal is for the players to wander around and pick up small gold piles which are randomly placed throughout the map before other players. This program involved a lot of network coding and was built in a SCRUM and Sprint style work environment. This project has proper commenting.
 
 [GitHub: Nuggets](https://github.com/cs50spring2021/nuggets-nunchuck-buccaneer)
 
@@ -33,7 +41,7 @@ Trailblazers is a top-down RTS game. Although it was never fully prepared for pu
 ![](Photos/Trail2.PNG "Trailblazers")
 
 ## Spaceships
-This is an unfinished project but it has a plethora of interesting systems that were super fun to program. In this project there is code for dynamic destruction and construction through the use of a marching squares algorithm. There is A* pathfinding that adjusts to a changing enviroment as entities are moving and some high speed physics simulation. It is more of a prototype than anything else. Still uncommented but cool I think.
+This is an unfinished project but it has a plethora of interesting systems that were super fun to program. In this project there is code for dynamic destruction and construction through the use of a marching squares algorithm. There is A* pathfinding that adjusts to a changing environment as entities are moving and some high speed physics simulation. It is more of a prototype than anything else. Still uncommented but cool I think.
 
 [GitHub: Spaceships](https://github.com/JohnJamesUtley/Spaceships-3)
 
