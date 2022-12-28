@@ -27,10 +27,9 @@ A website and iPhone app meant to help ranchers implement better ranching proces
 ![](Photos/AddData.png "Envision Earth")
 ![](Photos/AppAddData.png "Envision Earth")
 
-## Nuggets Terminal Video Game
-This is a multiplayer video game that me and a small team built in a Software Design and Implementation course. It is built entirely in C and from the ground up. It runs in the terminal. In the game players are placed on a unrevealed premade map. They can only see in their immediate vincinity according to their lines of sight. The goal is for the players to wander around and pick up small gold piles which are randomly placed throughout the map before other players. This program involved a lot of network coding and was built in a SCRUM and Sprint style work environment. This project has proper commenting.
+## KetchupOS
 
-[GitHub: Nuggets](https://github.com/cs50spring2021/nuggets-nunchuck-buccaneer)
+Full fledged Yalnix style operating system. Made with a partner over the course of a school quarter. Programmed entirely in c. Supports round robin process switching. Includes multi-threading, locks, synchronization, and pipes. Able to load and run programs that are in machine language format
 
 ## Trailblazers
 Trailblazers is a top-down RTS game. Although it was never fully prepared for publishing it is fairly polished. It is a two player local multiplayer game. The game involves moving large formations of troops around a battlefield in order to capture key positions. The combat was difficult to program because it is solely based around the shapes formed by lines of combatants. Not Commented but the structure is well organzied and fairly easy to navigate.
@@ -47,6 +46,11 @@ This is an unfinished project but it has a plethora of interesting systems that 
 
 ![](Photos/Ship1.PNG "Spaceships")
 ![](Photos/Ship2.PNG "Spaceships")
+
+## Nuggets Terminal Video Game
+This is a multiplayer video game that me and a small team built in a Software Design and Implementation course. It is built entirely in C and from the ground up. It runs in the terminal. In the game players are placed on a unrevealed premade map. They can only see in their immediate vincinity according to their lines of sight. The goal is for the players to wander around and pick up small gold piles which are randomly placed throughout the map before other players. This program involved a lot of network coding and was built in a SCRUM and Sprint style work environment. This project has proper commenting.
+
+[GitHub: Nuggets](https://github.com/cs50spring2021/nuggets-nunchuck-buccaneer)
 
 ## Panda Doc Receiver
 This is a very rough and quick program I wrote for a Business Internship that I had from June 2021 to September 2021. It uses a website's API to export documents in bulk that have been filled out and signed by employees. The website is similar to DocuSign and is not originally designed for so many documents. It runs in terminal and exports to a CSV file. Not Commented.
